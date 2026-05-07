@@ -113,7 +113,7 @@ The interactive dashboard includes:
 
 # Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
